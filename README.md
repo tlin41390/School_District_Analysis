@@ -22,8 +22,6 @@
     * If we were to replace the ninth grade math and reading scores for Thomas High School, 
     then we will see that the results of Thomas High School overall will increase by a fair amount in 
     regards to overall scores, and in the math and reading section.
-    
-   ![Before Replacement](https://github.com/tlin41390/School_District_Analysis/blob/main/Resources/THS%20before%20replacement.png)
    
    ![After Replacement](https://github.com/tlin41390/School_District_Analysis/blob/main/Resources/THS%20after%20replacement.png)
    
