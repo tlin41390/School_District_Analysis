@@ -34,5 +34,6 @@
     * Overall, The Four Major Changes in the school district analysis, after updating the ninth grade scores, 
     is that the average math score for Charter schools, increased, as well as the average reading scores increased as well. 
     In additon the overall passing rate has increased because THS is a charter school. As for the  size of the school, the averages 
-    for a school size around THS will increase when the overall results of THS scores increase as well.
+    for a school size around THS will increase when the overall results of THS scores increase as well. Moreover, if we are to look at
+    the school data based on budget per person, because THS falls in the range of 630-644($638) the scores for that range will increase as well.
     
