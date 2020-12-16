@@ -14,8 +14,8 @@
     
    ![District Summary](https://github.com/tlin41390/School_District_Analysis/blob/main/Resources/district%20analysis.png)
 
-    * The School Summary is affected by the school type, the number of students, as well as the budget 
-    per student and the average math and reading scores plus their percentages, and finally, the overall passing percentage.
+    * The School Summary is affected by the school type,the budget per student and the average math 
+    and reading scores plus their percentages. Finally  the overall passing percentage is affected as well.
    
    ![School Summary](https://github.com/tlin41390/School_District_Analysis/blob/main/Resources/school%20summary.png)
 
