@@ -20,7 +20,7 @@
    ![School Summary](https://github.com/tlin41390/School_District_Analysis/blob/main/Resources/school%20summary.png)
 
     * If we were to replace the ninth grade math and reading scores for Thomas High School, 
-    then we will see thatthe results of Thomas High School overall will increase by a fair amount in 
+    then we will see that the results of Thomas High School overall will increase by a fair amount in 
     regards to overall scores, and in the math and reading section.
     
    ![Before Replacement](https://github.com/tlin41390/School_District_Analysis/blob/main/Resources/THS%20before%20replacement.png)
@@ -33,5 +33,5 @@
     
     
 ### School District Summary
-    * Overall, The Four Major Changes in the school district analysis, after updating the ninth grade scores, is that the average math score for Charter schools, increased, as well as the average reading scores increased as well. In additon the overall passing rate has increased aas well because THS is a charter school. As for the 
+    * Overall, The Four Major Changes in the school district analysis, after updating the ninth grade scores, is that the average math score for Charter schools, increased, as well as the average reading scores increased as well. In additon the overall passing rate has increased because THS is a charter school. As for the  size of the school, the averages for a school size around THS will increase when the overall results of THS scores increase as well.
     
