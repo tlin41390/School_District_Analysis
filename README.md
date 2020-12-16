@@ -1,1 +1,29 @@
 # School_District_Analysis
+
+## Overview of School District Analysis
+### Purpose
+    The purpose of the project is to help develop a better understanding of handling large data sets that need to be sorted out and broken down so that we can interpret the data sets as well as manipulate them in order to see the general trends that may possibly impact overall data distribution.
+
+## School District Results
+
+### School and District Summary 
+    * The District is Affected by the number of schools, the number of students,  the budget, as well as the average math and reading scores as well as their percentage, and the overall passing percentage.
+    
+   ![District Summary](https://github.com/tlin41390/School_District_Analysis/blob/main/Resources/district%20analysis.png)
+
+    * The School Summary is affected by the school type, the number of students, as well as the budget per student and the average math and reading scores plus their percentages, and finally, the overall passing percentage.
+   
+   ![School Summary](https://github.com/tlin41390/School_District_Analysis/blob/main/Resources/school%20summary.png)
+
+    * If we were to replace the ninth grade math and reading scores for Thomas High School, then we will see thatthe results of Thomas High School overall will increase by a fair amount in regards to overall scores, and in the math and reading section.
+    
+   ![Before Replacement](https://github.com/tlin41390/School_District_Analysis/blob/main/Resources/THS%20before%20replacement.png)
+   
+   ![After Replacement](https://github.com/tlin41390/School_District_Analysis/blob/main/Resources/THS%20after%20replacement.png)
+   
+    * Once we replace the 9th grade scores in Thomas High School, we see that there is a jump in all scores for math and reading. Overall, the school improved dramatically when the 0th graders were replaced.
+    
+    
+### School District Summary
+   The Four Major Changes in the school district analysis, after updating the ninth grade scores, are the average 
+    
